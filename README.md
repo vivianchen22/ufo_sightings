@@ -1,2 +1,2 @@
-# ufo_sightings
+Kaggle Practice: ufo_sightings
 https://www.kaggle.com/datasets/NUFORC/ufo-sightings
